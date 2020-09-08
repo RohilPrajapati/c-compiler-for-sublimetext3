@@ -6,5 +6,5 @@ requirement to make compiler
 3. open build system and click new build system
 4. paste the code
 5. save the file with extention (.sublime-build) eg c++input.sublime-build
-6. choose create build system (eg c++.sublime-build)
+6. choose create build system (eg c++input.sublime-build)
 7. click ctrl+b to compile and run the c++ porgram
