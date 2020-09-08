@@ -1,6 +1,6 @@
 creating sublime interactive compiler and runner
 
-requirement to make compiler
+steps to make compiler
 1. download and install minGW in your pc(add path to the enviroment variable)
 2. go to sublime tool tab
 3. open build system and click new build system
