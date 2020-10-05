@@ -1,4 +1,4 @@
-creating sublime interactive compiler and runner
+creating sublime interactive compiler and runner for c language 
 
 steps to make compiler
 1. download and install minGW in your pc(add path to the enviroment variable)
