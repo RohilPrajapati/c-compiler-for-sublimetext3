@@ -1,4 +1,4 @@
-# creating sublime interactive compiler and runner for c language
+# creating sublime interactive compiler and runner for c/c++
 <p>
     This sublime build will help you to compile the c and c++ in cmd(command prompt). This sublime build is for windows operating system.
 </p>
