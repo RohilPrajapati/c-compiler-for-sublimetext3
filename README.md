@@ -4,7 +4,7 @@
 </p>
 
 ## process
-
+<p>follow this process to install interactive sublime c/c++ compiler in you pc!!</p>
 <ol>
     <li>download and install minGW in your pc(add path to the enviroment variable)</li>
     <li>go to sublime tool tab</li>
